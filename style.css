@@ -25,7 +25,7 @@ body{
     place-items: center;
  }
 .inner-section{
-    width: 50vw;
+/*     width: 50vw; */
     padding: 3rem 8rem;
     background-color: rgb(255, 255, 255);
     padding:20px 25px;
